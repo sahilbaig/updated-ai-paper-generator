@@ -1,0 +1,5 @@
+{
+  "name": "CAT Exam Simulator",
+  "description": "An intelligent platform to practice for the CAT exam. Upload any question paper PDF, and the system automatically parses it into an interactive, timed exam experience with scoring.",
+  "requestFramePermissions": []
+}
